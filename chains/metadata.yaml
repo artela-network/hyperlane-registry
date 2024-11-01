@@ -4631,7 +4631,7 @@ zoratestnet:
   protocol: ethereum
   rpcUrls:
     - http: https://sepolia.rpc.zora.energy
-artelatestnet:
+artela:
   blockExplorers:
     - apiUrl: https://betanet-scan.artela.network/
       family: blockscout
