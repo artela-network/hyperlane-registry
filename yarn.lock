@@ -44,6 +44,34 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@artela-network/registry@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "@artela-network/registry@workspace:."
+  dependencies:
+    "@changesets/cli": "npm:^2.26.2"
+    "@eslint/js": "npm:^9.1.1"
+    "@hyperlane-xyz/sdk": "npm:5.6.0"
+    "@types/mocha": "npm:^10.0.1"
+    "@types/node": "npm:^16.9.1"
+    "@typescript-eslint/parser": "npm:^7.7.0"
+    chai: "npm:^4.3.6"
+    eslint: "npm:^9.0.0"
+    eslint-config-prettier: "npm:^9.1.0"
+    eslint-plugin-yml: "npm:^1.14.0"
+    husky: "npm:^9.0.11"
+    lint-staged: "npm:^15.2.2"
+    mocha: "npm:^10.2.0"
+    prettier: "npm:^2.8.8"
+    sinon: "npm:^18.0.0"
+    tsx: "npm:^4.7.1"
+    typescript: "npm:5.5.2"
+    typescript-eslint: "npm:^7.7.0"
+    yaml: "npm:2.4.5"
+    zod: "npm:^3.21.2"
+    zod-to-json-schema: "npm:^3.22.5"
+  languageName: unknown
+  linkType: soft
+
 "@aws-crypto/crc32@npm:5.2.0":
   version: 5.2.0
   resolution: "@aws-crypto/crc32@npm:5.2.0"
@@ -1896,34 +1924,6 @@ __metadata:
   checksum: 55c458e2dc9f58145256f47319936c483cb1415cfed3b25d6cee348d4b2d3b3dfe8658577b98ea896d2ff4a9f4af8e30709395c46c2d562794436b18a4f24b2f
   languageName: node
   linkType: hard
-
-"@hyperlane-xyz/registry@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "@hyperlane-xyz/registry@workspace:."
-  dependencies:
-    "@changesets/cli": "npm:^2.26.2"
-    "@eslint/js": "npm:^9.1.1"
-    "@hyperlane-xyz/sdk": "npm:5.6.0"
-    "@types/mocha": "npm:^10.0.1"
-    "@types/node": "npm:^16.9.1"
-    "@typescript-eslint/parser": "npm:^7.7.0"
-    chai: "npm:^4.3.6"
-    eslint: "npm:^9.0.0"
-    eslint-config-prettier: "npm:^9.1.0"
-    eslint-plugin-yml: "npm:^1.14.0"
-    husky: "npm:^9.0.11"
-    lint-staged: "npm:^15.2.2"
-    mocha: "npm:^10.2.0"
-    prettier: "npm:^2.8.8"
-    sinon: "npm:^18.0.0"
-    tsx: "npm:^4.7.1"
-    typescript: "npm:5.5.2"
-    typescript-eslint: "npm:^7.7.0"
-    yaml: "npm:2.4.5"
-    zod: "npm:^3.21.2"
-    zod-to-json-schema: "npm:^3.22.5"
-  languageName: unknown
-  linkType: soft
 
 "@hyperlane-xyz/sdk@npm:5.6.0":
   version: 5.6.0
