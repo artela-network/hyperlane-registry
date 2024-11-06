@@ -5,6 +5,7 @@ tokens:
     connections:
       - token: ethereum|holesky|0x261A4cE71DAae74E4e5Fb1B104b94CD6d2Ed7D44
     decimals: 6
+    logoURI: /deployments/warp_routes/USDC/logo.svg
     name: USD Coin
     standard: EvmHypSynthetic
     symbol: USDC
@@ -14,6 +15,7 @@ tokens:
     connections:
       - token: ethereum|artelatestnet|0x9c3A2c791f45a13befFC7205aFB7bFc844759831
     decimals: 6
+    logoURI: /deployments/warp_routes/USDC/logo.svg
     name: USD Coin
     standard: EvmHypCollateral
     symbol: USDC

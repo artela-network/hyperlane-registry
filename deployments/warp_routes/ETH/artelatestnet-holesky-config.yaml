@@ -5,6 +5,7 @@ tokens:
     connections:
       - token: ethereum|holesky|0xC4470CAa90ac44e3849C4Dc604287e5A3c21F383
     decimals: 18
+    logoURI: /deployments/warp_routes/ETH/logo.svg
     name: Ether
     standard: EvmHypSynthetic
     symbol: ETH
@@ -13,6 +14,7 @@ tokens:
     connections:
       - token: ethereum|artelatestnet|0x2a3Ee1d94640cb883083ef0E2F6c3BDc1f76b088
     decimals: 18
+    logoURI: /deployments/warp_routes/ETH/logo.svg
     name: Ether
     standard: EvmHypNative
     symbol: ETH

@@ -5,6 +5,7 @@ tokens:
     connections:
       - token: ethereum|holesky|0xB8346305d262AfcB27fB6E65AF8A02D6ADD920C9
     decimals: 18
+    logoURI: /deployments/warp_routes/ART/logo.svg
     name: artela
     standard: EvmHypNative
     symbol: ART
@@ -13,6 +14,7 @@ tokens:
     connections:
       - token: ethereum|artelatestnet|0x750AdA8b6af16Af0Af92A9e44Db5746b7558A7e0
     decimals: 18
+    logoURI: /deployments/warp_routes/ART/logo.svg
     name: artela
     standard: EvmHypSynthetic
     symbol: ART
